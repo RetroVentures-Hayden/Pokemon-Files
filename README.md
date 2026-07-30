@@ -1,5 +1,7 @@
 # Every Pokémon Game & Console
 
+**Last updated: July 29, 2026** · 92 games · 88 consoles
+
 A free, complete checklist of **every Pokémon video game** and **every special-edition Pokémon console / handheld**, in one spreadsheet — something that surprisingly wasn't available anywhere for free.
 
 This was hand-compiled by cross-referencing **10–15 different databases** over a couple of weeks. Take it, copy it, track your own collection with it — it's yours to use.
@@ -31,5 +33,9 @@ This was hand-compiled by cross-referencing **10–15 different databases** over
 ## License
 
 Released into the **public domain (CC0)** — use it, modify it, re-share it, no credit required (though a shout-out is always appreciated 🙂).
+
+## Changelog
+
+- **2026-07-29** — Initial release: 92 games (mainline Gen 1–10 + all spin-offs) and 88 special-edition consoles, as `.xlsx` + CSV.
 
 *Compiled by [@hayhayman219-boop](https://github.com/hayhayman219-boop).*
