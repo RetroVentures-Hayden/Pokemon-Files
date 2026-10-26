@@ -1,6 +1,6 @@
 # Every Pokémon Game & Console
 
-**Last updated: October 26, 2026** · **V2:** 137 games · 97 consoles (V1: 92 games · 88 consoles)
+**Last updated: October 26, 2026** · **V2:** 137 games · 97 consoles
 
 A free, complete checklist of **every Pokémon video game** and **every special-edition Pokémon console / handheld**, in one spreadsheet — something that surprisingly wasn't available anywhere for free.
 
@@ -12,12 +12,10 @@ This was hand-compiled by cross-referencing **10–15 different databases** over
   - **`Every Pokemon Game and Console V2.numbers`** — Apple Numbers; one combined table with an owned checkbox and a Completion column.
   - **`Every Pokemon Game and Console V2.xlsx`** — Excel / Google Sheets / Numbers; **Games** and **Consoles** tabs with Owned (Yes/No) and Completion dropdowns.
   - **`Pokemon Games V2.csv`** / **`Pokemon Consoles V2.csv`** — plain CSV.
-- **`Every Pokémon Game and Console.xlsx`** — V1: one workbook, two tabs (**Games** and **Consoles**). Opens directly in **Apple Numbers**, **Microsoft Excel**, and **Google Sheets**.
-- **`Pokemon Games.csv`** / **`Pokemon Consoles.csv`** — V1, plain-CSV versions for maximum compatibility / importing anywhere.
 
-**Games** (92): every mainline title grouped by generation (Gen 1 → Gen 10's *Winds* & *Waves*), plus every spin-off grouped by console — Stadium, Snap, Mystery Dungeon, Ranger, Rumble, Colosseum/XD, Pokkén, Detective Pikachu, Café Mix, Pokopia, and more.
+**Games** (137): every mainline title grouped by generation (Gen 1 → Gen 10's *Winds* & *Waves*), plus spin-offs grouped by platform — Stadium, Snap, Mystery Dungeon, Ranger, Rumble, Colosseum/XD, Pokkén, Detective Pikachu, Café Mix, Pokopia, Pokémon mini, PC, mobile, arcade, and more.
 
-**Consoles** (88): every special-edition system — from the Sega Pico and the Blue/Orange Pikachu N64s, through the Game Boy / Color / Advance / SP / Micro Pokémon editions, the DS / DS Lite / DSi / DSi XL "Daisuki Club" and Worlds editions, the 3DS XL & New 3DS(XL) / 2DS editions, and the Switch / Switch Lite / Switch 2 editions.
+**Consoles** (97): every special-edition system — from the Sega Pico, the Blue/Orange Pikachu N64s and the Pokémon mini, through the Game Boy / Color / Advance / SP / Micro Pokémon editions, the DS / DS Lite / DSi / DSi XL "Daisuki Club" and Worlds editions, the 3DS XL & New 3DS(XL) / 2DS editions, and the Switch / Switch Lite / Switch 2 editions.
 
 ## Columns
 
