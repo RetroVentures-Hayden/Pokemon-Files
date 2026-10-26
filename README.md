@@ -1,6 +1,6 @@
 # Every Pokémon Game & Console
 
-**Last updated: July 29, 2026** · 92 games · 88 consoles
+**Last updated: October 26, 2026** · **V2:** 137 games · 97 consoles (V1: 92 games · 88 consoles)
 
 A free, complete checklist of **every Pokémon video game** and **every special-edition Pokémon console / handheld**, in one spreadsheet — something that surprisingly wasn't available anywhere for free.
 
@@ -8,8 +8,9 @@ This was hand-compiled by cross-referencing **10–15 different databases** over
 
 ## What's inside
 
-- **`Every Pokémon Game and Console.xlsx`** — one workbook, two tabs (**Games** and **Consoles**). Opens directly in **Apple Numbers**, **Microsoft Excel**, and **Google Sheets**.
-- **`Pokemon Games.csv`** / **`Pokemon Consoles.csv`** — plain-CSV versions for maximum compatibility / importing anywhere.
+- **`Every Pokemon Game and Console V2.numbers`** — **V2 (latest)**, Apple Numbers. One combined table with an owned checkbox, a Completion column, and new **Made In** (developer's country) and **Released In** (regions) columns. Adds Pokémon mini, PC, mobile and arcade games, Japan-only titles, and more special-edition consoles.
+- **`Every Pokémon Game and Console.xlsx`** — V1: one workbook, two tabs (**Games** and **Consoles**). Opens directly in **Apple Numbers**, **Microsoft Excel**, and **Google Sheets**.
+- **`Pokemon Games.csv`** / **`Pokemon Consoles.csv`** — V1, plain-CSV versions for maximum compatibility / importing anywhere.
 
 **Games** (92): every mainline title grouped by generation (Gen 1 → Gen 10's *Winds* & *Waves*), plus every spin-off grouped by console — Stadium, Snap, Mystery Dungeon, Ranger, Rumble, Colosseum/XD, Pokkén, Detective Pikachu, Café Mix, Pokopia, and more.
 
@@ -36,6 +37,7 @@ Released into the **public domain (CC0)** — use it, modify it, re-share it, no
 
 ## Changelog
 
+- **2026-10-26 — V2** (`.numbers`): +45 games (Japanese Pokémon Blue, Pocket Monsters Stadium, all 10 Pokémon mini games, PC, mobile and arcade titles, Quest/UNITE/Friends/Champions, the three Japan-only WiiWare Mystery Dungeon games, and more) and +11 consoles (Pokémon mini ×3, Pocket Pikachu ×2, Premium Gold 3DS XL, the 20th-anniversary clear 2DS editions, and the Switch 2 + Pokopia bundle). Added **Made In** and **Released In** columns; entries marked *(unverified)* still need confirming. Fixed: Red Rescue Team is GBA, not DS.
 - **2026-07-29** — Initial release: 92 games (mainline Gen 1–10 + all spin-offs) and 88 special-edition consoles, as `.xlsx` + CSV.
 
 *Compiled by [@hayhayman219-boop](https://github.com/hayhayman219-boop).*
